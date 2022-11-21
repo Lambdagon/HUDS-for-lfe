@@ -1,0 +1,35 @@
+"Resource/UI/HudCurrencyAccount.res"
+{
+	"Currency"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"Currency"
+		"font"			"HudNumbers"
+		"fgcolor"		"CustomGreen"	
+		"xpos"			"15"
+		"ypos"			"40"
+		"zpos"			"3"
+		"wide"			"90"
+		"tall"			"45"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%currency%"
+	}
+	"CurrencyShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyShadow"
+		"font"			"HudNumbersGlow"
+		"fgcolor"		"CustomGreen"
+		"xpos"			"15"
+		"ypos"			"40"
+		"zpos"			"3"
+		"wide"			"90"
+		"tall"			"45"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%currency%"
+	}			
+}
